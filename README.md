@@ -30,7 +30,7 @@ python FDTD-2D.py
 ```
 
 ## Expected Results
-Outside the material, wave propagation follows standard Maxwell’s equations. Upon reaching the Drude material, part of the wave is transmitted, and part is reflected. The expected behavior is a lens-like effect, where the pulse converges and then re-emerges.  The expected behavior is a **lens-like effect**, where the wave converges and then re-emerges. The simulation captures wave evolution at different time steps (50, 100, 200, ..., 700 steps).
+Outside the material, wave propagation follows standard Maxwell’s equations. Upon reaching the Drude material, part of the wave is transmitted, and part is reflected. The expected behavior is a **lens-like effect**, where the wave converges and then re-emerges. The simulation captures wave evolution at different time steps (50, 100, 200, ..., 700 steps).
 
 ## Visualizations
 
