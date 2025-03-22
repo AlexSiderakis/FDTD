@@ -26,7 +26,7 @@ pip install numpy matplotlib
 Execute the following command to run the simulation:
 
 ```bash
-python fdtd_simulation.py
+python FDTD-2D.py
 ```
 
 ## Expected Results
